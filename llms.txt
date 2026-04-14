@@ -5,11 +5,12 @@
 sanantoniobankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- San Antonio Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://sanantoniobankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in San Antonio: Red Flags and What to Watch For: https://sanantoniobankruptcymill.com/chapter-13-san-antonio.html
 - Chapter 7 Bankruptcy in San Antonio: Costs, Timeline and What to Know: https://sanantoniobankruptcymill.com/chapter-7-san-antonio.html
 - How to Check Your San Antonio Bankruptcy Attorney's Track Record: https://sanantoniobankruptcymill.com/how-to-check.html
+- San Antonio Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://sanantoniobankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in San Antonio: https://sanantoniobankruptcymill.com/warning-signs.html
+- Privacy Policy: https://sanantoniobankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
